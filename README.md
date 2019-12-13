@@ -1,2 +1,2 @@
 # AOB
-Gamified app that allows user to give real-time recognition
+Gamified app that allows users to give real-time recognition
