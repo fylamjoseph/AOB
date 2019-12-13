@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">aob_login</string>
+    <string name="have_questions">Have Questions?</string>
+    <string name="contact_us">Contact Us.</string>
+    <string name="welcome">Welcome</string>
+    <string name="nice">Nice to see you again!</string>
+    <string name="login">Login</string>
+    <string name="hint_id">People Soft ID</string>
+    <string name="hint_pw">Password</string>
+    <string name="forget_pw">Forget Password?</string>
+    <string name="hello">Hello There!</string>
+
+</resources>
